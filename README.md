@@ -108,6 +108,7 @@ impares. O programa deve imprimir os números separados por categoria, na mesma 
 por colunas.
 
 <strong>Questão 09: Verificando Ano bissexto<strong>
+
 Problema:
 Em um projeto de desenvolvimento de calendário, é necessário verificar se um ano é bissexto ou não.
 Um programador precisa de uma função que realize essa verificação de forma precisa. Basicamente,
@@ -119,6 +120,7 @@ programa deve imprimir o resultado da verificação. O programa deve ser modular
 programa, o usuário deve ter a opção de realizar um novo cálculo ou encerrar o programa.
 
 <strong>Questão 10: Calculando o mínimo e o máximo<strong>
+
 Problema:
 Um aluno de Sistemas de Informação está trabalhando em um projeto de análise de dados e precisa
 calcular o valor minimo e máximo de uma lista de números.
@@ -130,6 +132,7 @@ negativo. O programa deve ser modularizado, com uma função para cada cálculo 
 minimo e máximo).
 
 <strong>Questão 11: Verificando Palíndromos<strong>
+
 Problema:
 Um entusiasta de linguagens de programação está explorando conceitos de palindromos e deseja um
 programa que verifique se uma palavra ou frase é um palindromo. Um palíndromo é uma palavra ou
@@ -141,6 +144,7 @@ Desenvolva um programa que receba uma palavra ou frase como entrada e verifique 
 palindromo. O programa deve imprimir o resultado da verificação.
 
 <strong>Questão 12: Calculando Juros Simples<strong>
+
 Problema:
 Um estudante de Economia está desenvolvendo uma calculadora de juros simples para auxiliar em
 seus estudos. Ele precisa de uma solução que permita calcular o montante final considerando o
