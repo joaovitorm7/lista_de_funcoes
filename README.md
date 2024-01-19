@@ -97,8 +97,8 @@ imprimir o resultado do cálculo. Ao final do programa, o usuário deve ter a op
 cálculo ou encerrar o programa.
 
 <strong>Questão 08: Separando números pares e ímpares<strong>
-Problema:
 
+Problema:
 Um professor de Estatística está organizando dados e precisa separar os números de uma lista em
 pares e ímpares. Ele busca um programa que possa realizar essa tarefa de forma eficiente.
 Comando da Questão:
